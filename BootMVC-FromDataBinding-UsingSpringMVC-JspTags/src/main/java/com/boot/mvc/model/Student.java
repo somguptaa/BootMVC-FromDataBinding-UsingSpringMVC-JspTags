@@ -7,7 +7,8 @@ public class Student {
 	
 	private Integer sno;
 	private String sname;
-	private String sadd="Hyd";
+	private String sadd="Hyd";   //this will show as default value in registration form
 	private Double avg;
 
 }
+
